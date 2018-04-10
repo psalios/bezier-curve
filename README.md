@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * Java 1.8
-* Maven 10.13.3
+* Maven 10.13.3+
 
 ### Installing
 
